@@ -1,0 +1,11 @@
+
+	<script type="text/javascript">
+		
+		function task(x){
+			
+			return(x*x)
+		}
+		var a =task(3);
+		document.write(a)
+		
+	</script>
