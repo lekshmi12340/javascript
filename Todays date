@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+
+</head>
+<body style="background-color: pink">
+	<h2 style="color: red">Hi click below for todays date</h2>
+	<button type="submit" onclick="date()" style="color: lime" >Today's Date</button>
+
+	
+
+	<script type="text/javascript">
+		function date(){
+			document.write(new Date());
+
+		}
+		
+
+	</script>
+
+
+</body>
+</html>
